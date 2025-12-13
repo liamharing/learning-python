@@ -4,7 +4,7 @@
 #This exercise focuses on basic syntax mixed with user input
 
 word = "One"
-sentence = "This is excercise One"
+sentence = "This is Excercise One"
 paragraph = "This is a multiline paragraph featuring\ntwo lines of text"
 
 print("Welcome to Excercise One of learning Python!")
