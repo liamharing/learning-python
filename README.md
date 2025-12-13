@@ -24,6 +24,7 @@ Episode | File Name | Purpose
 ------------- | ------------- | -------------
 Episode One | basic-syntax.py | Basic syntax and user input
 Episode Two | variables-datatypes.py | Variables and datatypes
+Episode Three | conditionals.py | Coniditionals
 
 ## Contributing
 
