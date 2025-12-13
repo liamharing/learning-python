@@ -9,7 +9,7 @@ You can either choose to clone it using HTTPS or download a ZIP archive.
 
 > [!NOTE]  
 > You need to be able to run Python code locally on your device. 
-> Refer to the [official Python website](python.org) for more information about how you can download Python to your device.
+> Refer to the [official Python website](https://www.python.org) for more information about how you can download Python to your device.
 
 ## Usage
 
