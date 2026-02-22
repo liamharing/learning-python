@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-#This is Exercise Three of Learning Python
-#This exercise focuses on conditionals
+# This is Exercise Three of Learning Python
+# This exercise focuses on conditionals
 
 print("Welcome to Excercise Three of learning Python!")
 

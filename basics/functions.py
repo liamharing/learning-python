@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-#This is Exercise Six of Learning Python
-#This exercise focuses on Functions
+# This is Exercise Six of Learning Python
+# This exercise focuses on Functions
 
 print("Welcome to Excercise Six of learning Python!")
 
@@ -24,19 +24,19 @@ users = [
     {"username" : "dylan"},
 ]
 
-#Function greeting
+# Function greeting
 userName = input("Type your name to be greeted: \n")
 
 greeting(userName)
 
-#Function calculateCost
+# Function calculateCost
 userItem = str(input("\nWhat item do you want to calculate the cost of? \n"))
 userQuantity = int(input(f"How many \"{userItem}\" do you have? \n"))
 userCost = float(input(f"How much does {userItem} cost? \n"))
 
 calculateCost(userItem, userQuantity, userCost)
 
-#Function findUser
+# Function findUser
 suppliedUsername = str(input("\n\nType the username to search for: "))
 
 foundUser = findUser(suppliedUsername, users)

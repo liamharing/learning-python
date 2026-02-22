@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-#This is Exercise Two of Learning Python
-#This exercise focuses on learning about variables and datatypes
+# This is Exercise Two of Learning Python
+# This exercise focuses on learning about variables and datatypes
 
 print("Welcome to Excercise One of learning Python!")
 

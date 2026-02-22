@@ -28,6 +28,7 @@ Episode Three | conditionals.py | Conditionals
 Episode Four | loops.py | Loops
 Episode Five | strings.py | Strings and related operations
 Episode Six | functions.py | Functions
+Episode Seven | list-set-tuple.py | Lists, Sets and Tuples
 
 ## Contributing
 

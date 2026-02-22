@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-#This is Exercise Four of Learning Python
-#This exercise focuses on loops
+# This is Exercise Four of Learning Python
+# This exercise focuses on loops
 
 print("Welcome to Excercise Four of learning Python!")
 

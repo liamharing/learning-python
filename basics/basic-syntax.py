@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-#This is Exercise One of Learning Python
-#This exercise focuses on basic syntax mixed with user input
+# This is Exercise One of Learning Python
+# This exercise focuses on basic syntax mixed with user input
 
 word = "One"
 sentence = "This is Excercise One"

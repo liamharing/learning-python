@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-#This is Exercise Five of Learning Python
-#This exercise focuses on learning about strings and related operations
+# This is Exercise Five of Learning Python
+# This exercise focuses on learning about strings and related operations
 
 print("Welcome to Excercise Five of learning Python! \n")
 
